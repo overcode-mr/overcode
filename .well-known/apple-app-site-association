@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["957G683SDX.com.overcode.diwan"],
+        "components": [
+          { "/": "/poem", "comment": "Open a shared poem" },
+          { "/": "/poem*", "comment": "Open a shared poem with query" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["957G683SDX.com.overcode.diwan"]
+  }
+}
